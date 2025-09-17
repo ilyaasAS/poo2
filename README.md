@@ -39,3 +39,4 @@ Par **Rachid EDJEKOUANE ⭐️**
 ## Conclusion
 
 _Ces objectifs pédagogiques visent à fournir aux apprenants les bases solides de la programmation orientée objet en PHP et à leur permettre de développer des applications web efficaces, modulaires et évolutives._
+Changement dans README
